@@ -22,7 +22,6 @@
 ---
 
 ### 👨‍💻 About Me / Về bản thân:
-I am a final-year student majoring in Information Technology. Tôi là sinh viên năm cuối ngành Công nghệ Thông tin.
 
 - 💻 With a strong passion for programming and software development, I have continually sought to expand my knowledge through hands-on projects and advanced courses. Tôi có niềm đam mê đặc biệt với lập trình và phát triển phần mềm, luôn học hỏi và trau dồi kiến thức từ các dự án thực tế và khóa học chuyên sâu.
   
